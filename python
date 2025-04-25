@@ -1,1 +1,7 @@
 hello world
+
+python uses the print() funtion to print to console and here's how to do it 
+
+print("hello world")
+double and single quotes both work - they are strings.
+happy coding
